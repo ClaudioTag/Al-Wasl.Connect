@@ -47,7 +47,7 @@ The platform will address:
 - Associations, organizations, NGOs, academic institutions and experts with specific psychotrauma experience
 - International Volunteers
 
-<img src="submission.png" alt="submission" width="600">
+<img src="submission.png" alt="submission" width="900">
 
 #### Completeness and Transferability
 The LRN extension aims to ingest requests coming from Al-Wasl.connect when they are directly related to trauma and mental health:
