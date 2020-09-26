@@ -18,7 +18,13 @@
 We are a group Lebanese expats and international volunteers, working in different fields, but united by a cause: helping Lebanon.
 - [Elizabeth Asseily](https://www.linkedin.com/in/elizabeth-asseily-3304ba20), Team Lead
 - [Christine Hitti](https://www.linkedin.com/in/christine-hitti-mdem-666a766a), Crisis Management Specialist
-
+- [Rayan Taher](https://www.linkedin.com/in/rayan-taher-mbpss-5b4884150), Mental Health Specialist
+- [Catherine Asseily](https://www.linkedin.com/in/catherine-asseily-313b2132/), Marketing Specialist
+- [Rami Saab](https://www.linkedin.com/in/rami-roberto-saab-2b32a3b3/), Content Editor
+- [Sophie Khoury](https://www.linkedin.com/in/sophiekhoury/), Creative Strategist
+- [Stve Arnold](https://www.linkedin.com/in/sarnoldatwork/), Development Lead
+- [Brian Say](https://www.linkedin.com/in/brian-say/), Scrum Master
+- [Claduio Tag](https://www.linkedin.com/in/claudiotagliabue), IT Architect
 
 ### Lebanon Relief Network - An Al-Wasl.connect extension
 
