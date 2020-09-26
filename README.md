@@ -1,5 +1,5 @@
 
-![logo](LRN_logo.png)
+![LRN_logo](LRN_logo.png) ![AW-c_logo](logo1.png)
 
 ## Contents
 
