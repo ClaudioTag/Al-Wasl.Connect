@@ -107,7 +107,7 @@ The solution is a web-based platform.
 * [Sendgrid](https://cloud.ibm.com/catalog/infrastructure/email-delivery)
 
 ### Code
-The MVP code is publicly available here:
+The MVP code is publicly available on GitHub:
 <a href="https://github.com/briansay/project-lebanon" target="_blank">https://github.com/briansay/project-lebanon</a>
 
 ## Version
