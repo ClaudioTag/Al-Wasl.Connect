@@ -1,8 +1,8 @@
 
 # Lebanon Relief Network
 
-![AW-c_logo](logo1.png)
-![LRN_logo](LRN_logo.png)
+![AW-c_logo](images/logo1.png)
+![LRN_logo](images/LRN_logo.png)
 
 ## Contents
 
@@ -44,7 +44,7 @@ The platform will address:
 - Individuals outside of Lebanon that were affected by the event (Lebanese diaspora)
 - Associations, organizations, NGOs, academic institutions and experts with specific psychotrauma experience
 - International Volunteers
-![submission](submission_criteria.png)
+![submission](images/submission_criteria.png)
 #### Completeness and Transferability
 The LRN extension aims to ingest requests coming from Al-Wasl.connect when they are directly related to trauma and mental health:
 - providing access to self-help
@@ -56,31 +56,31 @@ Although the platform is focussed on Lebanon, psychotrauma is an unavoidable con
 LRN extends Al-Wasl.connect, narrowing its focus on trauma and mental health. The centered aim of Al-Wasl.connect-LRN is to prevent serious mental health consequences from emerging as a result of the traumatic events taking place in Lebanon, and to do so effectively and at scale.
 #### Design Usability
 A Design Thinking Workshop run across London and Dubai, with experts in psychotrauma, mental health, crisis management, marketing, product rollouts, and user experience laid the foundations of a usable and user-first platform. Based on the design and user stories, the first development sprint will produce an MVP by October 11th, 2020.
-![Design Thinking Workshop](DTW.png)
+![Design Thinking Workshop](images/DTW.png)
 #### Creativity and innovation
 The immediate efforts of NGOs and volunteering communities focusing on tackling the short-term aftermath of the explosion. However, repercussions of trauma on those affected by the explosion can lead to serious mental health consequences months and years down the line. In a region where trauma and mental health are still clouded by stigma, Al-Wasl.connect-LRN will complement the psycho-social support on the ground by raising awareness on a large scale, and by aggregating and providing access to available support and offers of help.
 
 ## Solution
 Al-Wasl.connect - Lebanon Relief Network is a web-based platform built as an extension to Al-Wasl.connect, which will allow victims of trauma to seek help anonymously, whilst connecting them with professional organizations and volunteers offering mental health support.
 
-![LRN platform](al-wasl.connect-LRN_scope.png)
+![LRN platform](images/al-wasl.connect-LRN_scope.png)
 
 ### Project Roadmap
 #### Design and Development
 The Project is adopting Design Thinking and Agile Development methodologies:
 - A Design Thinking Workshop has been completed in September 2020
 - Sprint 1 of the Minimum Viable Product development is currently in progress
-![Design and Development](gannt.png)
+![Design and Development](images/gannt.png)
 
 #### User Footfall
 An estimation of the user footfall has been created, assuming that the MVP will be in English only.
-![User Footfall](user_footfall.png)
+![User Footfall](images/user_footfall.png)
 
 #### Sustainability Plan
 LRN founders are dedicated to their mission of raising awareness and connecting individuals affected by trauma with mental health support networks.
 After the initial development and hosting provided by IBM and IBM Corporate Social Responsibility, we plan to offer part ownership of the platform to organizations whose missions complement that of LRN. In parallel, we will be working on a contingency plan to fully sustain the platform until such partnership(s) are concluded.
 
-![Sustainability Plan](sustainability.png)
+![Sustainability Plan](images/sustainability.png)
 
 ### Video and Overview
 An overview of the submission and the solution is available below:
@@ -98,7 +98,7 @@ The solution is a web-based platform.
 - Personal and Sensitive Information is encrypted at rest
 - Email notifications and calendar invites are sent via SMTP
 
-![architecture](al.wasl-connect-LRN_arch-v.png)
+![architecture](images/al.wasl-connect-LRN_arch-v.png)
 
 ### IBM Cloud Services
 * [IBM Cloud Foundry](https://cloud.ibm.com/cloudfoundry/overview)
