@@ -81,8 +81,10 @@ After the initial development and hosting provided by IBM and IBM Corporate Soci
 
 ![Sustainability Plan](sustainability.png)
 
-### Video
-An overview of the submission and the solution is available in this [Al.Wasl-connect-LRN video](https://ibm.box.com/s/f0c6ho9ca6p5gw3o1k8u3dp1lfkn7o64)
+### Video and Overview
+An overview of the submission and the solution is available in this:
+- [Presentation](https://ibm.box.com/s/oeil9na69kxs9wji6ge7x10g08f8cza8)
+- [Video](https://ibm.box.com/s/katnc9vmwa3h8umbw91xc3jzr8b13dqi)
 
 ## Solution Architecture
 The solution is a web-based platform.
