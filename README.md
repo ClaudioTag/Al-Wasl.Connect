@@ -82,7 +82,7 @@ After the initial development and hosting provided by IBM and IBM Corporate Soci
 ![Sustainability Plan](sustainability.png)
 
 ### Video and Overview
-An overview of the submission and the solution is available in this:
+An overview of the submission and the solution is available below:
 - [Presentation](https://ibm.box.com/s/oeil9na69kxs9wji6ge7x10g08f8cza8)
 - [Video](https://ibm.box.com/s/katnc9vmwa3h8umbw91xc3jzr8b13dqi)
 
