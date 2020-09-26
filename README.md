@@ -67,7 +67,9 @@ Al-Wasl.connect - Lebanon Relief Network is a web-based platform built as an ext
 
 ### Project Roadmap
 #### Design and Development
-The Project is adopting Agile Development, with Sprint 1 of the Minimum Viable Product currently undergoing.
+The Project is adopting Design Thinking and Agile Development methodologies:
+- A Design Thinking Workshop has been completed in September 2020
+- Sprint 1 of the Minimum Viable Product development is currently in progress.
 ![Design and Development](gannt.png)
 
 #### User Footfall
