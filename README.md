@@ -67,10 +67,18 @@ Al-Wasl.connect - Lebanon Relief Network is a web-based platform built as an ext
 
 ![LRN platform](al-wasl.connect-LRN_scope.png)
 
-### Roadmap
-- development
-- User impact
-- Donation to NGOs
+### Project Roadmap
+#### Design and Development
+![Design and Development](gannt.png)
+
+#### User Footfall
+![User Footfall](footfall.png)
+
+#### Sustainability Plan
+LRN founders are dedicated to their mission of raising awareness and connecting individuals affected by trauma with mental health support networks.
+After the initial development and hosting provided by IBM and IBM Corporate Social Responsibility, we plan to offer part ownership of the platform to organizations whose missions complement that of LRN. In parallel, we will be working on a contingency plan to fully sustain the platform until such partnership(s) are concluded.
+
+![Sustainability Plan](sustainability.png)
 
 ### Code
 - GitHub repo
