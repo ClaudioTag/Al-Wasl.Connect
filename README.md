@@ -24,7 +24,7 @@ We are a group Lebanese expats and international volunteers, working in differen
 - [Sophie Khoury](https://www.linkedin.com/in/sophiekhoury/) - Creative Strategist
 - [Steve Arnold](https://www.linkedin.com/in/sarnoldatwork/) - Development Lead
 - [Brian Say](https://www.linkedin.com/in/brian-say/) - Scrum Master
-- [Claduio Tag](https://www.linkedin.com/in/claudiotagliabue) - IT Architect
+- [Claudio Tag](https://www.linkedin.com/in/claudiotagliabue) - IT Architect
 
 ### Lebanon Relief Network - An Al-Wasl.connect extension
 
@@ -46,7 +46,7 @@ The platform will address:
 - Individuals outside of Lebanon that were affected by the event (Lebanese diaspora)
 - Associations, organizations, NGOs, academic institutions and experts with specific psychotrauma experience
 - International Volunteers
-![submission](submission.png)
+![submission](submission.png =250x)
 #### Completeness and Transferability
 The LRN extension aims to ingest requests coming from Al-Wasl.connect when they are directly related to trauma and mental health:
 - providing access to self-help
