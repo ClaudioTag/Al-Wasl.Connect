@@ -84,12 +84,19 @@ After the initial development and hosting provided by IBM and IBM Corporate Soci
 
 ### Code
 The MVP code is publicly available here:
-<a href="https://github.com/briansay/project-lebanon" target="_blank">github.com/briansay/project-lebanon</a>
+<a href="https://github.com/briansay/project-lebanon" target="_blank">https://github.com/briansay/project-lebanon</a>
 
 ### Video
-[Al.Wasl-connect-LNR](https://ibm.box.com/s/f0c6ho9ca6p5gw3o1k8u3dp1lfkn7o64)
+An overview of the submission and the solution is available in this [Al.Wasl-connect-LNR video](https://ibm.box.com/s/f0c6ho9ca6p5gw3o1k8u3dp1lfkn7o64)
 
 ## Solution Architecture
+The solution is a web-based platform:
+- Developed primarily in Node.JS
+- Data and metadata stores use Cloudant
+- Content is stored in Object Storage
+- Watson Discovery is used for content analysis
+- Connectivity to Al.Wasl-connect is achieved via RESTful invocations
+- A future integration pattern entails Al.Wasl-connect emitting events (e.g. via Kafka) which extension modules can subscribe to.
 
 ![architecture](al.wasl-connect-LRN_architecture.png)
 
