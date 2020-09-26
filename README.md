@@ -46,7 +46,7 @@ The platform will address:
 - Individuals outside of Lebanon that were affected by the event (Lebanese diaspora)
 - Associations, organizations, NGOs, academic institutions and experts with specific psychotrauma experience
 - International Volunteers
-![submission](submission.png)
+![submission](submission_criteria.png)
 #### Completeness and Transferability
 The LRN extension aims to ingest requests coming from Al-Wasl.connect when they are directly related to trauma and mental health:
 - providing access to self-help
