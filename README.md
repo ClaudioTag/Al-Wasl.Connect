@@ -81,10 +81,10 @@ After the initial development and hosting provided by IBM and IBM Corporate Soci
 ![Sustainability Plan](sustainability.png)
 
 ### Code
-- GitHub repo
+MVP code publicly available here: https://github.com/briansay/project-lebanon
 
 ### Video
-[Here](https://ibm.box.com/s/f0c6ho9ca6p5gw3o1k8u3dp1lfkn7o64)
+[Al.Wasl-connect-LNR](https://ibm.box.com/s/f0c6ho9ca6p5gw3o1k8u3dp1lfkn7o64)
 
 ## Solution Architecture
 
