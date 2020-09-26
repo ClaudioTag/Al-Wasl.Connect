@@ -96,7 +96,7 @@ The solution is a web-based platform.
 - Personal and Sensitive Information is encrypted at rest
 - Email notifications and calendar invites are sent via SMTP
 
-![architecture](al.wasl-connect-LRN_architecture.png)
+![architecture](al.wasl-connect-LRN_arch.png)
 
 ### IBM Cloud Services
 * [IBM Cloud Foundry](https://cloud.ibm.com/cloudfoundry/overview)
