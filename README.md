@@ -50,6 +50,7 @@ The LRN extension aims to ingest requests coming from Al-Wasl.connect when they 
 - providing access to self-help
 - putting victims of trauma in touch with therapists and volunteering organisations
 - functioning as a content aggregator for the disparate initiatives around trauma and mental health in Lebanon
+
 Although the platform is focussed on Lebanon, psychotrauma is an unavoidable consequence of disasters and calamities. A relief platform capable of addressing the effects of trauma on mental health and connecting experts from around the world could contribute substantially to advancing collaboration in the field of trauma, and also have a significant impact in the field outside of Lebanon.
 #### Effectiveness and Efficiency
 LRN extends Al-Wasl.connect, narrowing its focus on trauma and mental health. The centered aim of Al-Wasl.connect-LRN is to prevent serious mental health consequences from emerging as a result of the traumatic events taking place in Lebanon, and to do so effectively and at scale.
