@@ -16,8 +16,9 @@
 
 ### The LRN team
 We are a group Lebanese expats and international volunteers, working in different fields, but united by a cause: helping Lebanon.
-- [Elizabeth Asseily] (https://www.linkedin.com/in/elizabeth-asseily-3304ba20), Team Lead
-- [Christine Hitti]
+- [Elizabeth Asseily](https://www.linkedin.com/in/elizabeth-asseily-3304ba20), Team Lead
+- [Christine Hitti](https://www.linkedin.com/in/christine-hitti-mdem-666a766a), Crisis Management Specialist
+
 
 ### Lebanon Relief Network - An Al-Wasl.connect extension
 
