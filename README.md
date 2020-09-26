@@ -10,7 +10,7 @@
 1. [Solution](#solution)
 1. [Architecture](#solution-architecture)
 1. [Built with](#built-with)
-1. [Version](#versioning)
+1. [Version](#version)
 
 ## Submission
 
@@ -43,7 +43,7 @@ Team
 
 ## Solution Architecture
 
-![image](LRN_al.wasl-connect architecture.png.jpeg)
+![image](LRN_al.wasl-connect-architecture.png)
 
 ### IBM Cloud Services
 - List of Cloud services used
