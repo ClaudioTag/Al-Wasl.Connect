@@ -84,7 +84,7 @@ After the initial development and hosting provided by IBM and IBM Corporate Soci
 
 ### Code
 The MVP code is publicly available here:
-<a href="https://github.com/briansay/project-lebanon" target="_blank">https://github.com/briansay/project-lebanon</a>
+<a href="https://github.com/briansay/project-lebanon" target="_blank">github.com/briansay/project-lebanon</a>
 
 ### Video
 [Al.Wasl-connect-LNR](https://ibm.box.com/s/f0c6ho9ca6p5gw3o1k8u3dp1lfkn7o64)
