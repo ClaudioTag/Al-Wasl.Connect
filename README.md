@@ -65,7 +65,7 @@ The immediate efforts of NGOs and volunteering communities focusing on tackling 
 ## Solution
 Al-Wasl.connect - Lebanon Relief Network is a web-based platform built as an extension to Al-Wasl.connect, in order to allow victims of trauma to seek help anonymously, and organisations and volunteer to offer help around mental health to those in need.
 
-![LRN platform](Al-wasl.connect-LRN-scope.png)
+![LRN platform](al-wasl.connect-LRN_scope.png)
 
 ### Roadmap
 - development
@@ -80,7 +80,7 @@ Al-Wasl.connect - Lebanon Relief Network is a web-based platform built as an ext
 
 ## Solution Architecture
 
-![architecture](LRN_al.wasl-connect-architecture.png)
+![architecture](al.wasl-connect-LRN_architecture.png)
 
 ### IBM Cloud Services
 - List of Cloud services used
