@@ -73,7 +73,7 @@ The Project is adopting Design Thinking and Agile Development methodologies:
 
 #### User Footfall
 An estimation of the user footfall has been created, assuming that the MVP will be in English only.
-![User Footfall](footfall.png)
+![User Footfall](user_footfall.png)
 
 #### Sustainability Plan
 LRN founders are dedicated to their mission of raising awareness and connecting individuals affected by trauma with mental health support networks.
