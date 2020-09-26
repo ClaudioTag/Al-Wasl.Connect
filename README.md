@@ -67,11 +67,13 @@ Al-Wasl.connect - Lebanon Relief Network is a web-based platform built as an ext
 
 ### Project Roadmap
 #### Design and Development
-The Project is adopting Agile Development, with Sprint 1 of the Minimum Viable Product currently undergoing.
+The Project is adopting Design Thinking and Agile Development methodologies:
+- A Design Thinking Workshop has been completed in September 2020
+- Sprint 1 of the Minimum Viable Product development is currently in progress.
 ![Design and Development](gannt.png)
 
 #### User Footfall
-An estimation of the user footfall has been created, estimating that the MVP will be in English only.
+An estimation of the user footfall has been created, assuming that the MVP will be in English only.
 ![User Footfall](footfall.png)
 
 #### Sustainability Plan
@@ -81,15 +83,15 @@ After the initial development and hosting provided by IBM and IBM Corporate Soci
 ![Sustainability Plan](sustainability.png)
 
 ### Video
-An overview of the submission and the solution is available in this [Al.Wasl-connect-LNR video](https://ibm.box.com/s/f0c6ho9ca6p5gw3o1k8u3dp1lfkn7o64)
+An overview of the submission and the solution is available in this [Al.Wasl-connect-LRN video](https://ibm.box.com/s/f0c6ho9ca6p5gw3o1k8u3dp1lfkn7o64)
 
 ## Solution Architecture
-The solution is a web-based platform:
-- Developed primarily in Node.JS
+The solution is a web-based platform.
+- The front and back ends are coded primarily in Node.JS
 - Data and metadata stores use Cloudant
 - Content is stored in Object Storage
 - Connectivity to Al.Wasl-connect is achieved via RESTful invocations
-- [Future] Al.Wasl-connect emits events (e.g. via Kafka) which extension modules can subscribe to
+- [Future] Al.Wasl-connect emits events (e.g. via Kafka) which the LRN module can subscribe to
 - Watson Discovery is used for content analysis
 - Personal and Sensitive Information is encrypted at rest
 - Email notifications and calendar invites are sent via SMTP
