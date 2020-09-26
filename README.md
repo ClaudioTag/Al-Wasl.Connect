@@ -7,7 +7,7 @@
 ## Contents
 
 1. [Team](#the-team)
-1. [Al-Wasl.connect Lebanon Relief Network](#al-Wasl.connect-lebanon-relief-network)
+1. [Al-Wasl.connect Lebanon Relief Network](#al-waslconnect-lebanon-relief-network)
 1. [Solution](#solution)
 1. [Architecture](#solution-architecture)
 1. [Version](#version)
