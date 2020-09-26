@@ -50,18 +50,17 @@ The LRN extension aims to ingest requests coming from Al-Wasl.connect when they 
 - providing access to self-help
 - putting victims of trauma in touch with therapists and volunteering organisations
 - functioning as a content aggregator for the disparate initiatives around trauma and mental health in Lebanon
-Although the platform is focussed on Lebanon, psychotrauma is an unavoidable consecquence of disaters and calamities. A relief platform capable of addressing the effects of trauma on mental health can have huge impacts in the field outside of Lebanon as well.
+Although the platform is focussed on Lebanon, psychotrauma is an unavoidable consequence of disasters and calamities. A relief platform capable of addressing the effects of trauma on mental health and connecting experts from around the world could contribute substantially to advancing collaboration in the field of trauma, and also have a significant impact in the field outside of Lebanon.
 #### Effectiveness and Efficiency
-LRN extends Al-Wasl.connect, narrowing its focus on trauma and mental health. The LRN aim is to target a specific issue related to the aftermath of the August 4th Beirut explosion, but to do so effectively and at scale, to prevent long-term repercussion on mental health of those directly and indirectly affected.
+LRN extends Al-Wasl.connect, narrowing its focus on trauma and mental health. The centered aim of Al-Wasl.connect-LRN is to prevent serious mental health consequences from emerging as a result of the traumatic events taking place in Lebanon, and to do so effectively and at scale.
 #### Design Usability
 A Design Thinking Workshop run across London and Dubai, with experts in psychotrauma, mental health, crisis management, marketing, product rollouts, and user experience laid the foundations of a usable and user-first platform. Based on the design and user stories, the first development sprint will produce an MVP by October 11th, 2020.
 ![Design Thinking Workshop](DTW.png)
 #### Creativity and innovation
-The immediate efforts of NGOs and volunteering communities focusing on tackling the short-term aftermath of the explosion: from disaster relief to first aid, from food distribution to providing shelter.A traumatic event of this nature is however also bound to have repercussions on the mental health of those directly and indirectly affected. In a region where trauma and mental health are still covered by stigma, Al-Wasl.connect-LRN will help reach out and help those affected, and provide relief to an issue which, although often overlooked, will have multi-year consequences if untreated.
-
+The immediate efforts of NGOs and volunteering communities focusing on tackling the short-term aftermath of the explosion. A traumatic event of this nature is however also bound to have repercussions on the mental health of those directly and indirectly affected. In a region where trauma and mental health are still covered by stigma, Al-Wasl.connect-LRN will help reach out and help those affected, and provide relief to an issue which, although often overlooked, will have multi-year consequences if untreated.
 
 ## Solution
-Al-Wasl.connect - Lebanon Relief Network is a web-based platform built as an extension to Al-Wasl.connect, in order to allow victims of trauma to seek help anonymously, and organisations and volunteer to offer help around mental health to those in need.
+Al-Wasl.connect - Lebanon Relief Network is a web-based platform built as an extension to Al-Wasl.connect, which will allow victims of trauma to seek help anonymously, whilst connecting them with professional organizations and volunteers offering mental health support.
 
 ![LRN platform](al-wasl.connect-LRN_scope.png)
 
