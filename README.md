@@ -16,15 +16,15 @@
 
 ### The LRN team
 We are a group Lebanese expats and international volunteers, working in different fields, but united by a cause: helping Lebanon.
-- [Elizabeth Asseily](https://www.linkedin.com/in/elizabeth-asseily-3304ba20), Team Lead
-- [Christine Hitti](https://www.linkedin.com/in/christine-hitti-mdem-666a766a), Crisis Management Specialist
-- [Rayan Taher](https://www.linkedin.com/in/rayan-taher-mbpss-5b4884150), Mental Health Specialist
-- [Catherine Asseily](https://www.linkedin.com/in/catherine-asseily-313b2132/), Marketing Specialist
-- [Rami Saab](https://www.linkedin.com/in/rami-roberto-saab-2b32a3b3/), Content Editor
-- [Sophie Khoury](https://www.linkedin.com/in/sophiekhoury/), Creative Strategist
-- [Stve Arnold](https://www.linkedin.com/in/sarnoldatwork/), Development Lead
-- [Brian Say](https://www.linkedin.com/in/brian-say/), Scrum Master
-- [Claduio Tag](https://www.linkedin.com/in/claudiotagliabue), IT Architect
+- [Elizabeth Asseily](https://www.linkedin.com/in/elizabeth-asseily-3304ba20) - Team Lead
+- [Christine Hitti](https://www.linkedin.com/in/christine-hitti-mdem-666a766a) - Crisis Management Specialist
+- [Rayan Taher](https://www.linkedin.com/in/rayan-taher-mbpss-5b4884150) - Mental Health Specialist
+- [Catherine Asseily](https://www.linkedin.com/in/catherine-asseily-313b2132/) - Marketing Specialist
+- [Rami Saab](https://www.linkedin.com/in/rami-roberto-saab-2b32a3b3/) - Content Editor
+- [Sophie Khoury](https://www.linkedin.com/in/sophiekhoury/) - Creative Strategist
+- [Steve Arnold](https://www.linkedin.com/in/sarnoldatwork/) - Development Lead
+- [Brian Say](https://www.linkedin.com/in/brian-say/) - Scrum Master
+- [Claduio Tag](https://www.linkedin.com/in/claudiotagliabue) - IT Architect
 
 ### Lebanon Relief Network - An Al-Wasl.connect extension
 
@@ -46,7 +46,7 @@ The platform will address:
 - Individuals outside of Lebanon that were affected by the event (Lebanese diaspora)
 - Associations, organizations, NGOs, academic institutions and experts with specific psychotrauma experience
 - International Volunteers
-
+![submission](submission.png)
 #### Completeness and Transferability
 The LRN extension aims to ingest requests coming from Al-Wasl.connect when they are directly related to trauma and mental health:
 - providing access to self-help
@@ -59,7 +59,7 @@ LRN extends Al-Wasl.connect, narrowing its focus on trauma and mental health. Th
 A Design Thinking Workshop run across London and Dubai, with experts in psychotrauma, mental health, crisis management, marketing, product rollouts, and user experience laid the foundations of a usable and user-first platform. Based on the design and user stories, the first development sprint will produce an MVP by October 11th, 2020.
 ![Design Thinking Workshop](DTW.png)
 #### Creativity and innovation
-The immediate efforts of NGOs and volunteering communities focusing on tackling the short-term aftermath of the explosion: from disaster relief to first aid, from food distribution to providing shelter.A traumatic event of this nature is however also bound to have repercussions on the mental health of those directly and indirectly affected. In a region where trauma and mental health are still covered by stigma, Lebanon Relief Network - Al-Wasl.connect will help reach out and help those affected, and provide relief to an issue which, although often overlooked, will have multi-year consequences if untreated.
+The immediate efforts of NGOs and volunteering communities focusing on tackling the short-term aftermath of the explosion: from disaster relief to first aid, from food distribution to providing shelter.A traumatic event of this nature is however also bound to have repercussions on the mental health of those directly and indirectly affected. In a region where trauma and mental health are still covered by stigma, Al-Wasl.connect-LRN will help reach out and help those affected, and provide relief to an issue which, although often overlooked, will have multi-year consequences if untreated.
 
 
 ## Solution
