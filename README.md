@@ -6,15 +6,13 @@
 
 ## Contents
 
-1. [Submission](#submission)
+1. [Team](#the-team)
+1. [Al-Wasl.connect Lebanon Relief Network](#al-Wasl.connect-lebanon-relief-network)
 1. [Solution](#solution)
 1. [Architecture](#solution-architecture)
-1. [Built with](#built-with)
 1. [Version](#version)
 
-## Submission
-
-### The LRN team
+## The Team
 We are a group Lebanese expats and international volunteers, working in different fields, but united by a cause: helping Lebanon.
 - [Elizabeth Asseily](https://www.linkedin.com/in/elizabeth-asseily-3304ba20) - Team Lead
 - [Christine Hitti](https://www.linkedin.com/in/christine-hitti-mdem-666a766a) - Crisis Management Specialist
@@ -26,7 +24,7 @@ We are a group Lebanese expats and international volunteers, working in differen
 - [Brian Say](https://www.linkedin.com/in/brian-say/) - Scrum Master
 - [Claudio Tag](https://www.linkedin.com/in/claudiotagliabue) - IT Architect
 
-### Lebanon Relief Network - An Al-Wasl.connect extension
+## Al-Wasl.connect Lebanon Relief Network
 
 A traumatic event like the Beirut explosion of August, 4th is bound to have repercussions on the mental health of those directly and indirectly affected. UNICEF estimates that 600,000 children could be in need of psychosocial support.
 
@@ -82,10 +80,6 @@ After the initial development and hosting provided by IBM and IBM Corporate Soci
 
 ![Sustainability Plan](sustainability.png)
 
-### Code
-The MVP code is publicly available here:
-<a href="https://github.com/briansay/project-lebanon" target="_blank">https://github.com/briansay/project-lebanon</a>
-
 ### Video
 An overview of the submission and the solution is available in this [Al.Wasl-connect-LNR video](https://ibm.box.com/s/f0c6ho9ca6p5gw3o1k8u3dp1lfkn7o64)
 
@@ -94,21 +88,26 @@ The solution is a web-based platform:
 - Developed primarily in Node.JS
 - Data and metadata stores use Cloudant
 - Content is stored in Object Storage
-- Watson Discovery is used for content analysis
 - Connectivity to Al.Wasl-connect is achieved via RESTful invocations
-- A future integration pattern entails Al.Wasl-connect emitting events (e.g. via Kafka) which extension modules can subscribe to.
+- [Future] Al.Wasl-connect emits events (e.g. via Kafka) which extension modules can subscribe to
+- Watson Discovery is used for content analysis
+- Personal and Sensitive Information is encrypted at rest
+- Email notifications and calendar invites are sent via SMTP
 
 ![architecture](al.wasl-connect-LRN_architecture.png)
 
 ### IBM Cloud Services
-- List of Cloud services used
-
-## Built with
 * [IBM Cloud Foundry](https://cloud.ibm.com/cloudfoundry/overview)
 * [IBM Toolchain](https://cloud.ibm.com/devops/create)
 * [IBM Cloudant](https://cloud.ibm.com/catalog/services/cloudant)
-* [Node.js](https://nodejs.org/en/)
+* [IBM Cloud Object Storage](https://cloud.ibm.com/catalog/services/cloud-object-storage)
+* [Watson Discovery](https://cloud.ibm.com/catalog/services/discovery)
+* [Key Protect](https://cloud.ibm.com/catalog/services/key-protect)
+* [Sendgrid](https://cloud.ibm.com/catalog/infrastructure/email-delivery)
+
+### Code
+The MVP code is publicly available here:
+<a href="https://github.com/briansay/project-lebanon" target="_blank">https://github.com/briansay/project-lebanon</a>
 
 ## Version
-
 v0.1
