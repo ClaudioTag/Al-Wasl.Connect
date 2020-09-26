@@ -69,7 +69,7 @@ Al-Wasl.connect - Lebanon Relief Network is a web-based platform built as an ext
 #### Design and Development
 The Project is adopting Design Thinking and Agile Development methodologies:
 - A Design Thinking Workshop has been completed in September 2020
-- Sprint 1 of the Minimum Viable Product development is currently in progress.
+- Sprint 1 of the Minimum Viable Product development is currently in progress
 ![Design and Development](gannt.png)
 
 #### User Footfall
@@ -92,7 +92,7 @@ The solution is a web-based platform.
 - Content is stored in Object Storage
 - Connectivity to Al.Wasl-connect is achieved via RESTful invocations
 - [Future] Al.Wasl-connect emits events (e.g. via Kafka) which the LRN module can subscribe to
-- Watson Discovery is used for content analysis
+- Watson Discovery is used for content analys is
 - Personal and Sensitive Information is encrypted at rest
 - Email notifications and calendar invites are sent via SMTP
 
