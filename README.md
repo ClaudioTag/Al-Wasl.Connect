@@ -105,13 +105,13 @@ The solution is a web-based platform.
 * [IBM Toolchain](https://cloud.ibm.com/devops/create)
 * [IBM Cloudant](https://cloud.ibm.com/catalog/services/cloudant)
 * [IBM Cloud Object Storage](https://cloud.ibm.com/catalog/services/cloud-object-storage)
-* [Watson Discovery](https://cloud.ibm.com/catalog/services/discovery)
-* [Key Protect](https://cloud.ibm.com/catalog/services/key-protect)
+* [IBM Watson Discovery](https://cloud.ibm.com/catalog/services/discovery)
+* [IBM Key Protect](https://cloud.ibm.com/catalog/services/key-protect)
 * [Sendgrid](https://cloud.ibm.com/catalog/infrastructure/email-delivery)
 
 ### Code
 The MVP code is publicly available on GitHub:
-<a href="https://github.com/briansay/project-lebanon" target="_blank">https://github.com/briansay/project-lebanon</a>
+<a href="https://github.com/lebanon-relief-project" target="_blank">https://github.com/lebanon-relief-project</a>
 
 ## Version
 v0.1
